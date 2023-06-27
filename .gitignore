@@ -1,0 +1,6 @@
+.vs/**
+DemoAppReactNetFrame/bin/**
+DemoAppReactNetFrame/obj/**
+**node_modules
+packages/**
+
